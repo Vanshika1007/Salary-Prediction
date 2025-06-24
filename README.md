@@ -28,7 +28,8 @@ This project predicts the salary of an individual based on their years of experi
 ![Model Output](output.png)
 
 ## Accuracy
-![Model Accuracy](Accuracy.jfif)
+✅ Achieved **91% accuracy** on the test dataset.
+![Model Accuracy](accuracy.jfif)
 
 ## 🚀 How to Run
 1. Clone the repository
