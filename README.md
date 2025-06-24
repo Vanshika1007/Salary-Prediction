@@ -27,6 +27,9 @@ This project predicts the salary of an individual based on their years of experi
 ## 📷 Output
 ![Model Output](output.png)
 
+## Accuracy
+![Model Accuracy](Accuracy.jfif)
+
 ## 🚀 How to Run
 1. Clone the repository
 2. Open `Untitled5.ipynb` in Jupyter Notebook
